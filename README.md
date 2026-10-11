@@ -1,81 +1,80 @@
-<!--
-  Profile README for https://github.com/aabeowulf
-  Keep this page honest: update skills and project statuses as you build.
--->
+<!-- Abir's GitHub profile README | Keep project statuses and skills accurate as they evolve. -->
 
-<h1 align="center">Hi, I'm Abir 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Engineering Student at Daffodil International University (DIU)</strong><br/>
-  Learning by building, one project at a time.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0F172A,50:1D4ED8,100:0F172A&text=ABIR&fontColor=FFFFFF&fontSize=56&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%7C%20ASPIRING%20SOFTWARE%20ENGINEER&descSize=13&descAlignY=68&animation=fadeIn" width="100%" alt="Abir — Software Engineering Student" />
 
-<p align="center">
-  <a href="https://github.com/aabeowulf">
-    <img src="https://img.shields.io/badge/GitHub-aabeowulf-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Bangladesh-006a4e?style=for-the-badge" alt="Bangladesh"/>
-  <img src="https://img.shields.io/badge/Status-Student-blue?style=for-the-badge" alt="Student"/>
-</p>
+<br/>
+
+<a href="https://github.com/aabeowulf"><img src="https://img.shields.io/badge/GitHub-aabeowulf-111827?style=flat-square&logo=github" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/DIU-Software%20Engineering-1D4ED8?style=flat-square" alt="DIU Software Engineering"/>
+<img src="https://img.shields.io/badge/Based%20in-Bangladesh-006A4E?style=flat-square" alt="Based in Bangladesh"/>
+
+<p><em>Learning the fundamentals. Building with purpose. Improving with every commit.</em></p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 🎓 I'm studying **Software Engineering at DIU**.
-- 🌱 I'm strengthening my programming fundamentals and learning modern software development.
-- 💻 Currently focusing on **C, HTML, CSS, JavaScript, Git, and GitHub**.
-- 🧭 My goal is to become a capable software engineer by building practical projects and learning good engineering habits.
-- 🤝 I'm open to learning with other developers, feedback, and beginner-friendly collaboration.
+I'm a Software Engineering student at **Daffodil International University (DIU)**, focused on building strong programming fundamentals and growing into a well-rounded software engineer.
 
-## 🛠️ Skills I'm Building
+I believe the best way to learn software engineering is to **build real things, understand how they work, and improve them through feedback**.
+
+- Currently strengthening: **C, HTML, CSS, JavaScript, Git & GitHub**
+- Exploring next: **TypeScript, React, Node.js, APIs, SQL and PostgreSQL**
+- Interested in: **backend engineering, full-stack development, system design and developer tools**
+- Goal: build useful software with readable code, thoughtful design and reliable engineering practices
+
+## Technical Toolkit
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript learning"/>
+  <img src="https://img.shields.io/badge/JavaScript-learning-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript — learning"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-**Exploring next:** TypeScript, React, Node.js, Express.js, SQL, PostgreSQL, Prisma, testing, and Docker.
+<sub>Next on my learning roadmap: TypeScript · React · Node.js · Express · PostgreSQL · Prisma · Testing · Docker</sub>
 
-## 🚀 Project Roadmap
+## Project Roadmap
 
-These are planned learning projects—not completed projects yet. I'll update each section as real work becomes available.
+I'm planning and building toward projects that demonstrate practical software engineering skills. Items below are **planned**, not claimed as finished work.
 
-| Project | Goal | Status |
+| Project | What I'll learn | Status |
 |---|---|---|
-| **TeamFlow** | A project-management app to practice APIs, authentication, databases, and testing | 🗓️ Planned |
-| **PingWatch** | An uptime-monitoring service to learn background jobs and system reliability | 🗓️ Planned |
-| **DevChat** | A real-time chat app to explore WebSockets and messaging | 🗓️ Planned |
-| **ShopEngine** | An e-commerce backend to practice product, order, and inventory workflows | 🗓️ Planned |
+| **TeamFlow** | Project workflows, authentication, REST APIs, relational data and testing | Planned |
+| **PingWatch** | Service monitoring, scheduled checks and reliability concepts | Planned |
+| **DevChat** | Real-time communication and WebSocket fundamentals | Planned |
+| **ShopEngine** | E-commerce workflows, orders, products and inventory modelling | Planned |
 
-## 📚 What I'm Working Toward
+As each project develops, I'll add its repository, live demo (if available), setup guide, architecture notes and meaningful implementation details here.
 
-- Writing clean, readable, maintainable code
-- Understanding data structures, algorithms, and databases
-- Building REST APIs and full-stack applications
-- Practicing testing, documentation, security, and Git workflows
-- Shipping projects with clear setup instructions and honest progress notes
+## Engineering Principles
 
-## 📊 GitHub
+- **Clarity over cleverness** — write code people can understand.
+- **Learn by shipping** — turn concepts into small, working projects.
+- **Security matters** — treat authentication, validation and data protection as core requirements.
+- **Document decisions** — make projects easier to run, review and maintain.
+- **Be honest about progress** — show what works, what is in progress and what I still need to learn.
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aabeowulf&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics for aabeowulf"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabeowulf&layout=compact&hide_border=true&theme=transparent" alt="Most used languages for aabeowulf"/>
+
+</div>
+
+## Connect
+
+- **GitHub:** [@aabeowulf](https://github.com/aabeowulf)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aabeowulf&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub profile stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabeowulf&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
-
-## 📫 Connect
-
-- GitHub: [@aabeowulf](https://github.com/aabeowulf)
-
----
-
-<p align="center">
-  <em>“Consistency beats intensity. Keep learning, keep building.”</em>
+  <sub>Early in the journey. Serious about the craft.</sub>
 </p>
