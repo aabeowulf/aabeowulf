@@ -1,4 +1,4 @@
-<!-- GitHub profile README for Abir. Keep skills and project statuses accurate. -->
+<!-- Abir's GitHub profile README. Update this page as skills and projects grow. -->
 
 <div align="center">
 
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Location-Bangladesh-006A4E?style=for-the-badge" alt="Bangladesh"/>
 </p>
 
-**Learning the fundamentals. Building with purpose. Improving with every commit.**
+**Continuously learning. Building with purpose. Improving with every commit.**
 
 </div>
 
@@ -18,14 +18,14 @@
 
 ## About Me
 
-Hello! I'm **Abir**, a Software Engineering student at **Daffodil International University (DIU), Bangladesh**. I'm developing my programming fundamentals and working toward becoming a well-rounded software engineer.
+Hello! I'm **Abir**, a Software Engineering student at **Daffodil International University (DIU), Bangladesh**. I'm strengthening my programming fundamentals and working toward becoming a well-rounded software engineer.
 
-I believe the best way to learn software engineering is to build useful things, understand how they work, and improve them through feedback.
+I believe the best way to learn software engineering is to build something useful, understand how it works, and improve it through feedback.
 
 - **Currently learning:** C, HTML, CSS, JavaScript, Git and GitHub
 - **Exploring next:** TypeScript, React, Node.js, REST APIs, SQL and PostgreSQL
-- **Interests:** Backend engineering, full-stack development, system design and developer tools
-- **Goal:** Build practical, maintainable software with clear documentation and reliable engineering practices
+- **Technical interests:** Backend engineering, full-stack development, system design and developer tools
+- **My goal:** Build practical software that is readable, well-documented, reliable and maintainable
 
 ## Technical Toolkit
 
@@ -38,11 +38,11 @@ I believe the best way to learn software engineering is to build useful things, 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-**Planned learning path:** TypeScript · React · Node.js · Express.js · PostgreSQL · Prisma · Automated testing · Docker
+**Next on my learning roadmap:** TypeScript · React · Node.js · Express.js · PostgreSQL · Prisma · Automated testing · Docker
 
 ## Project Roadmap
 
-These are learning projects on my roadmap. They are **planned, not completed**. As I build them, I'll link each repository and add setup instructions, architecture notes, tests and demos where available.
+These are planned learning projects, not completed work. As I build each project, I'll add its repository, setup instructions, architecture notes, tests and a live demo when available.
 
 | Project | Focus | Status |
 |---|---|---|
@@ -57,7 +57,7 @@ These are learning projects on my roadmap. They are **planned, not completed**. 
 - **Learn by building:** Turn concepts into small, working projects.
 - **Security from the start:** Treat validation, authentication and data protection as essential.
 - **Document decisions:** Make projects easier to run, review and maintain.
-- **Be honest about progress:** Clearly communicate what works, what is in progress and what still needs to be learned.
+- **Be honest about progress:** State clearly what works, what is in progress and what still needs to be learned.
 
 ## GitHub at a Glance
 
