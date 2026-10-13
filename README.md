@@ -42,14 +42,15 @@ I believe the best way to learn software engineering is to build something usefu
 
 ## Project Roadmap
 
-These are planned learning projects, not completed work. As I build each project, I'll add its repository, setup instructions, architecture notes, tests and a live demo when available.
+These are planned learning projects selected from real-life software engineering problems. They are **not completed projects yet**. I'll build them incrementally, validate the workflows with real users where possible, and document setup instructions, architecture, tests and demos as each project progresses.
 
 | Project | Focus | Status |
 |---|---|---|
-| **TeamFlow** | Project management, authentication, REST APIs, relational data and testing | 🗓️ Planned |
-| **PingWatch** | Uptime monitoring, scheduled checks and reliability concepts | 🗓️ Planned |
-| **DevChat** | Real-time messaging and WebSocket fundamentals | 🗓️ Planned |
-| **ShopEngine** | E-commerce workflows, products, orders and inventory modelling | 🗓️ Planned |
+| **StockSense** | Small-shop inventory, product batches, expiry and low-stock alerts, stock movements and reports | 🗓️ Planned |
+| **CampusFix** | Campus maintenance reporting, QR-based location entry, issue assignment, status tracking and analytics | 🗓️ Planned |
+| **ShiftMate** | Employee shift swaps, availability matching, schedule-conflict checks and manager approvals | 🗓️ Planned |
+| **Campus Lost & Found** | Structured lost/found listings, filters, matching, claim verification and status tracking | 🗓️ Planned |
+| **Equipment Lending** | Equipment inventory, reservations, QR checkout, due dates, returns and damage history | 🗓️ Planned |
 
 ## Engineering Principles
 
